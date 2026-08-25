@@ -160,43 +160,10 @@ http://localhost:5173
 
 ---
 
-## 📦 Available Scripts
 
-```bash
-npm run dev
-```
-
-Starts the development server.
-
-```bash
-npm run build
-```
-
-Creates a production build.
-
-```bash
-npm run preview
-```
 
 Previews the production build locally.
 
----
-
-## 🎯 Design Decisions
-
-### Separation of UI and Logic
-
-Instead of putting calculations and data manipulation directly inside components, utility modules are used to keep responsibilities separated.
-
-### Reusable Components
-
-Common interface elements are implemented as reusable components to reduce duplication and make future changes easier.
-
-### Centralized State
-
-Shared expense data is managed centrally so that different sections of the application remain synchronized.
-
-### Client-side Data Management
 
 The application is designed as a lightweight expense management solution without requiring a complex backend for its core functionality.
 
