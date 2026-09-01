@@ -3,5 +3,4 @@
   "description": "A modern, responsive personal expense tracker with category breakdowns, analytics, search, filter, and local storage persistence.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-  FA
 }
